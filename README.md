@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Valentina Vargas ✨</h1>
-<h3 align="center">Desarrolladora JR | Estudiante de Sistemas </h3>
+<h3 align="center">Desarrolladora | Estudiante de Sistemas </h3>
 
 ---
 
