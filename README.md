@@ -8,7 +8,7 @@
 - 📚 Estudiante de **Licenciatura en Sistemas** (4to año) en la **Universidad Nacional de Lanús**  
 - 💻 Experiencia en **proyectos académicos** aplicando Java, MySQL, MVC y metodologías ágiles  
 - 🎨 Conocimientos en **desarrollo web (HTML, CSS, JS)** y **diseño UX/UI**  
-- 🌱 Busco crecer como **Desarrolladora Front-End / Full-Stack Jr**  
+- 🌱 Busco crecer como **Desarrolladora Full-Stack **  
 
 ---
 
